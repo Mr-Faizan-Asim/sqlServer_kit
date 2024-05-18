@@ -29,8 +29,7 @@ To get started with using the SQL scripts in this repository, follow these steps
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/daily-sql-scripts.git
-    cd daily-sql-scripts
+    git clone
     ```
 
 2. **Browse the Scripts**:
