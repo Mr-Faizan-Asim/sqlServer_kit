@@ -29,7 +29,7 @@ To get started with using the SQL scripts in this repository, follow these steps
 
 1. **Clone the Repository**:
     ```bash
-    git clone -
+    
     ```
 
 2. **Browse the Scripts**:
